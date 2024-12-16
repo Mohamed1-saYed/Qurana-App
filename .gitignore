@@ -1,1 +1,35 @@
-node_modules
+# نظام التشغيل
+.DS_Store
+Thumbs.db
+
+# العقدة و npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# البناء (Build)
+build/
+dist/
+
+# بيئة التطوير
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# التبعيات المؤقتة
+coverage/
+*.cache
+
+# سجل الأخطاء
+*.log
+
+# محررات النصوص
+.vscode/
+.idea/
+*.swp
+
+# Git
+.git/
