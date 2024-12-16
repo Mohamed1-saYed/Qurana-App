@@ -1,0 +1,317 @@
+.Container_All{
+    direction: rtl;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+h1{
+    padding: 15px;
+    padding-bottom: 17px;
+    font-size: 30px;
+    color: black;
+    position: relative;
+    font-weight: 400;
+    width: fit-content;
+}
+
+ .Container_All .Azkar_Alsbah {
+    background: #111425;
+    width: 90%;
+    height: 70vh;
+    margin: auto;
+    border-radius: 3px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.Container_All .Azkar_Alsbah .Top_Sec{
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 2px;
+        padding: 10px 8px;
+        background: white;
+}
+
+.Container_All .Azkar_Alsbah .Top_Sec .p-1{
+    color: black!important;
+    text-align: center!important;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Container_All .Azkar_Alsbah .Middle_Sec{
+    display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+
+}
+
+.Container_All .Azkar_Alsbah .Middle_Sec .Azkar_Alsbah_P{
+    color: white;
+    margin-top: 8px;
+    line-height: 25px
+}
+
+.Container_All .Azkar_Alsbah .Middle_Sec .Num{
+    color: white;
+    margin-top: 7px;
+    border: solid;
+    padding: 6px 8px;
+    border-radius: 6px;
+    font-size: 12px;
+}
+
+.Container_All .Azkar_Alsbah .Middle_Sec > div{
+    display: flex;
+        flex-direction: row-reverse;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-right: 15px;
+}
+
+ .Container_All .Azkar_Almmasaa {
+    background: #111425;
+    width: 90%;
+    height: 70vh;
+    margin: auto;
+    border-radius: 3px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.Container_All .Azkar_Almmasaa .Top_Sec{
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 2px;
+        padding: 10px 8px;
+        background: white;
+}
+
+.Container_All .Azkar_Almmasaa .Top_Sec .p-1{
+    color: black!important;
+    text-align: center!important;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Container_All .Azkar_Almmasaa .Middle_Sec{
+    display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+
+}
+
+.Container_All .Azkar_Almmasaa .Middle_Sec .AzkarAlmasaa_P{
+    color: white;
+    margin-top: 8px;
+    line-height: 25px
+}
+
+.Container_All .Azkar_Almmasaa .Middle_Sec .Num{
+    color: white;
+    margin-top: 7px;
+    border: solid;
+    padding: 6px 8px;
+    border-radius: 6px;
+    font-size: 12px;
+}
+
+.Container_All .Azkar_Almmasaa .Middle_Sec > div{
+    display: flex;
+        flex-direction: row-reverse;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-right: 15px;
+}
+
+.Container_All .Azkar_Alsalah {
+    background: #111425;
+    width: 90%;
+    height: 70vh;
+    margin: auto;
+    border-radius: 3px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.Container_All .Azkar_Alsalah .Top_Sec{
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 2px;
+        padding: 10px 8px;
+        background: white;
+}
+
+.Container_All .Azkar_Alsalah .Top_Sec .p-1{
+    color: black!important;
+    text-align: center!important;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Container_All .Azkar_Alsalah .Middle_Sec{
+    display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+
+}
+
+.Container_All .Azkar_Alsalah .Middle_Sec .Azkar_Alsalah_P{
+    color: white;
+    margin-top: 8px;
+    line-height: 25px
+}
+
+.Container_All .Azkar_Alsalah .Middle_Sec .Num{
+    color: white;
+    margin-top: 7px;
+    border: solid;
+    padding: 6px 8px;
+    border-radius: 6px;
+    font-size: 12px;
+}
+
+.Container_All .Azkar_Alsalah .Middle_Sec > div{
+    display: flex;
+        flex-direction: row-reverse;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-right: 15px;
+}
+
+
+.Container_All .Azkar_Almasged {
+    background: #111425;
+    width: 90%;
+    height: 50vh;
+    margin: auto;
+    border-radius: 3px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.Container_All .Azkar_Almasged .Top_Sec{
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 2px;
+        padding: 10px 8px;
+        background: white;
+}
+
+.Container_All .Azkar_Almasged .Top_Sec .p-1{
+    color: black!important;
+    text-align: center!important;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Container_All .Azkar_Almasged .Middle_Sec{
+    display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+
+}
+
+.Container_All .Azkar_Almasged .Middle_Sec .Azkar_Almasged_P{
+    color: white;
+    margin-top: 8px;
+    line-height: 25px
+}
+
+.Container_All .Azkar_Almasged .Middle_Sec .Num{
+    color: white;
+    margin-top: 7px;
+    border: solid;
+    padding: 6px 8px;
+    border-radius: 6px;
+    font-size: 12px;
+}
+
+.Container_All .Azkar_Almasged .Middle_Sec > div{
+    display: flex;
+        flex-direction: row-reverse;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-right: 15px;
+}
+
+.Container_All .Azkar_Alazan {
+    background: #111425;
+    width: 90%;
+    height: 50vh;
+    margin: auto;
+    border-radius: 3px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.Container_All .Azkar_Alazan .Top_Sec{
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 2px;
+        padding: 10px 8px;
+        background: white;
+}
+
+.Container_All .Azkar_Alazan .Top_Sec .p-1{
+    color: black!important;
+    text-align: center!important;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Container_All .Azkar_Alazan .Middle_Sec{
+    display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+
+}
+
+.Container_All .Azkar_Alazan .Middle_Sec .Azkar_Alazan_P{
+    color: white;
+    margin-top: 8px;
+    line-height: 25px
+}
+
+.Container_All .Azkar_Alazan .Middle_Sec .Num{
+    color: white;
+    margin-top: 7px;
+    border: solid;
+    padding: 6px 8px;
+    border-radius: 6px;
+    font-size: 12px;
+}
+
+.Container_All .Azkar_Alazan .Middle_Sec > div{
+    display: flex;
+        flex-direction: row-reverse;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-right: 15px;
+}
+
+
+
+
+
+
+
+
+
+

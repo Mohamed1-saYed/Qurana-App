@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Qurana/static/css/main.372b5bea.css",
+    "main.js": "/Qurana/static/js/main.c5687d18.js",
+    "static/js/488.c322a64e.chunk.js": "/Qurana/static/js/488.c322a64e.chunk.js",
+    "static/media/background.jpg": "/Qurana/static/media/background.2c4dc58b37aa7c3d5a42.jpg",
+    "static/media/header(2)png.png": "/Qurana/static/media/header(2)png.bf630932359aadecea12.png",
+    "static/media/quran.jpg": "/Qurana/static/media/quran.74a368fbc369a3923821.jpg",
+    "static/media/Almadena_Almenaera.jpg": "/Qurana/static/media/Almadena_Almenaera.97cca6caa17657475385.jpg",
+    "index.html": "/Qurana/index.html",
+    "main.372b5bea.css.map": "/Qurana/static/css/main.372b5bea.css.map",
+    "main.c5687d18.js.map": "/Qurana/static/js/main.c5687d18.js.map",
+    "488.c322a64e.chunk.js.map": "/Qurana/static/js/488.c322a64e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.372b5bea.css",
+    "static/js/main.c5687d18.js"
+  ]
+}
